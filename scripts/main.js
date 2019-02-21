@@ -1,12 +1,12 @@
 var diceImage1 = 0;
 var diceImage2 = 0;
 var diceArray = [
-  "https://uploads.codesandbox.io/uploads/user/fcb69382-9512-4502-83ee-23b0aaa4e62d/4Ayb-dice1@3x.png",
-  "https://uploads.codesandbox.io/uploads/user/fcb69382-9512-4502-83ee-23b0aaa4e62d/XBP0-dice2@3x.png",
-  "https://uploads.codesandbox.io/uploads/user/fcb69382-9512-4502-83ee-23b0aaa4e62d/tR_t-dice3@3x.png",
-  "https://uploads.codesandbox.io/uploads/user/fcb69382-9512-4502-83ee-23b0aaa4e62d/blke-dice4@3x.png",
-  "https://uploads.codesandbox.io/uploads/user/fcb69382-9512-4502-83ee-23b0aaa4e62d/uBjb-dice5@3x.png",
-  "https://uploads.codesandbox.io/uploads/user/fcb69382-9512-4502-83ee-23b0aaa4e62d/7Mam-dice6@3x.png"
+  "assets/dice1@3x.png",
+  "assets/dice2@3x.png",
+  "assets/dice3@3x.png",
+  "assets/dice4@3x.png",
+  "assets/dice5@3x.png",
+  "assets/dice6@3x.png"
 ];
 
 function getRandomInt(max) {
